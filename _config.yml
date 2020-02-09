@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Super Simple
     description                           : Within seconds you can calculate the ROI on your next investment property.
-    fontawesome_icon_name                 : grin
+    fontawesome_icon_name                 : calculator
     
   - title                                 : Easy To Tweak
     description                           : +/- buttons for quickly testing different income/expense scenarios.
