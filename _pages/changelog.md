@@ -7,6 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 2.2**
+- Quickly share your calculations with someone (using bottom right icon)
+- Fixed a bug where you can make a down payment of over 100% – who does that?!
+- Fixed a bug where the quick subtract/add buttons would not properly disable
+- Fixed a bug where you can have negative amounts despite an input field showing a "0", the result were incorrect calculations
+- Added $ label to CapEx, Property Mgmt, and Vacancy
+
 # **Version 2.1**
 - Now available for iPad
 - Added "Done" button to close the keyboard (you can also tap outside of (or above) the keyboard to close
