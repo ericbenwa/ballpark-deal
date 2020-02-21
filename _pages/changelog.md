@@ -28,4 +28,4 @@ include_in_header: true
 
 # **Version 1.0**
 First version of the Rental Property Calculator app is now launched!  
-It's a simple start to calculating your next investment property. More to come...
+It's a simple start to calculating your next investment property.
