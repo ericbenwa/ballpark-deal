@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Verion 2.3**
+- Total ROI (includes cashflow and principal paydown)
+- Principal paydown numbers (monthly and yearly)
+- Better formatting for the numbers
+- Input fields are labeled with $ or %
+- "Water/Sewer" label is now "Utilities"
+- "Lawn/Snow" label is now "Maintenance"
+- Help button in the bottom left to send us an email
+
 # **Version 2.2**
 - Quickly share your calculations with someone (using bottom right icon)
 - Fixed a bug where you can make a down payment of over 100% – who does that?!
