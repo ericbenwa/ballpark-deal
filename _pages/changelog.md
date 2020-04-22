@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Verion 2.6**
+- Bug fixing
+
+# **Verion 2.5**
+- Bug fixing
+
+# **Verion 2.4**
+- Bug fixing
+
 # **Verion 2.3**
 - Total ROI (includes cashflow and principal paydown)
 - Principal paydown numbers (monthly and yearly)
