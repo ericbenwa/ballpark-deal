@@ -7,6 +7,13 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3**
+- Adjust mortgage length (1-30 years)
+- Added a field for "Closing Costs" - calculates into the ROI
+- Added a field for "Repairs" - calculates into the ROI
+- Improved layout for smaller phones
+- Help and share buttons have a new style
+
 # **Verion 2.6**
 - Bug fixing
 
