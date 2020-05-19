@@ -15,13 +15,13 @@ include_in_header: true
 - Help and share buttons have a new style
 
 # **Verion 2.6**
-- Bug fixing
+- Bug fixes
 
 # **Verion 2.5**
-- Bug fixing
+- Bug fixes
 
 # **Verion 2.4**
-- Bug fixing
+- Bug fixes
 
 # **Verion 2.3**
 - Total ROI (includes cashflow and principal paydown)
