@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3.1**
+- Bug fixes
+- Tip jar
+
 # **Version 3**
 - Adjust mortgage length (1-30 years)
 - Added a field for "Closing Costs" - calculates into the ROI
