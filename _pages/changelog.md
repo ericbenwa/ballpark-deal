@@ -7,9 +7,16 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 3.1**
+# **Version 3.3**
+- Bug fixed where the app would crash if you entered 0 for interest rate.
+- App display name changed
+
+# **Version 3.2**
 - Bug fixes
 - Tip jar
+
+# **Version 3.1**
+- Bug fixes
 
 # **Version 3**
 - Adjust mortgage length (1-30 years)
