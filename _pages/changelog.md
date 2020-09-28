@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3.5**
+- Support Dark Mode
+
+# **Version 3.4**
+- Added ability to enter decimals for Down Payment (ex. 3.5%)
+
 # **Version 3.3**
 - Bug fixed where the app would crash if you entered 0 for interest rate.
 - App display name changed
