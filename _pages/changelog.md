@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3.7**
+- Behind-the-scene updates
+
 # **Version 3.6**
 - Miscellaneous tweaks
 
