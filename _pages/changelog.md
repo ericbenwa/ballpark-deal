@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3.8**
+- Added Monthly title for input fields
+- Status for infinite ROI is now '∞🚀'
+
 # **Version 3.7**
 - Behind-the-scene updates
 
