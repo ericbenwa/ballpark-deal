@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 3.91**
+- Added mortgage length options 35 years and 40 years
+
+# **Version 3.9**
+- Behind-the-scene updates
+
 # **Version 3.8**
 - Added Monthly title for input fields
 - Status for infinite ROI is now '∞🚀'
