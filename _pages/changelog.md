@@ -7,8 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 3.91**
+# **Version 3.93**
 - Added mortgage length options 35 years and 40 years
+- Miscellaneous tweaks
 
 # **Version 3.9**
 - Behind-the-scene updates
