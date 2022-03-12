@@ -195,6 +195,6 @@ In order to resolve a complaint regarding the Site or to receive further informa
 
 Eric Benoit  
 United States  
-hello@ballparkdeal.com
+[hello@ballparkdeal.com](mailto:hello@ballparkdeal.com)
 
 These terms of use were created using Termly’s Terms and Conditions Generator.

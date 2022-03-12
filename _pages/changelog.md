@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 4.0**
+- Now available on Android
+- Rebranded to BallparkDeal
+
 # **Version 3.93**
 - Added mortgage length options 35 years and 40 years
 - Miscellaneous tweaks
