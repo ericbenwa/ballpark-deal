@@ -7,8 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 4.1**
+- Added more stats: Total ROI, Cap Rate, Cashflow per year, Debt Service Coverage Ratio (DSCR), Net Operating Income (NOI), Debt Service per yer, Principal per month
+
 # **Version 4.0**
-- Now available on Android
+- Now available for Android on the Google Play Store
 - Rebranded to BallparkDeal
 
 # **Version 3.93**
@@ -90,5 +93,5 @@ include_in_header: true
 - Revised labels for clarity
 
 # **Version 1.0**
-First version of the Rental Property Calculator app is now launched!  
-It's a simple start to calculating your next investment property.
+- First version of the Rental Property Calculator app is now launched!  
+- It's a simple start to calculating your next investment property.
