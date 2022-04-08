@@ -60,7 +60,7 @@ The term “mortgage” refers to a loan used to purchase or maintain a home, la
 ## Net Operating Income (NOI)
 Net operating income (NOI) is a calculation used to analyze the profitability of income-generating real estate investments. NOI equals all revenue from the property, minus all reasonably necessary operating expenses. [Learn More](https://www.investopedia.com/terms/n/noi.asp)
 
-Calculation: (Rental Income - Taxes - Insurance - Utilities - Maintenance - Miscellaneous - Property Management - Vacancy) * 12 months
+Calculation: (Rental Income - Taxes - Insurance - Utilities - Maintenance - Miscellaneous - Property Management - Vacancy) * 12 months  
 Excluded: Mortgage, Capital Expenditure
 
 ## Price
