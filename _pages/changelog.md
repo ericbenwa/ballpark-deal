@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 4.1.1**
+- Adjusted the font sizes to work better across different devices
+
 # **Version 4.1**
 - Added more stats: Total ROI, Cap Rate, Cashflow per year, Debt Service Coverage Ratio (DSCR), Net Operating Income (NOI), Debt Service per yer, Principal per month
 
