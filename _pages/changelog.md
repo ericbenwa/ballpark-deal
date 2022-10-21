@@ -7,6 +7,14 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 4.2**
+- Interest Only (IO) option for financing. Default option is Principal & Interest (P&I).
+- Yearly rental income
+- Refined list of years for amortization (40, 35, 30, 25, 20, 15, 10, 5) 
+- Revised default input field values
+- Label adjustments
+- Bug fixes
+
 # **Version 4.1.1**
 - Adjusted the font sizes to work better across different devices
 
