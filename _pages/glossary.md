@@ -45,6 +45,9 @@ A down payment is a sum of money that a buyer pays in the early stages of purcha
 ## Insurance
 Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company. [Learn More](https://www.investopedia.com/terms/i/insurance.asp)
 
+## Interest Only (IO)
+An interest only loan is a loan in which the borrower pays only the interest for some or all of the term, with the principal balance unchanged during the interest only period. In the app, this is shown as the monthly mortgage amount if IO is selected. [Learn More](https://en.wikipedia.org/wiki/Interest-only_loan)
+
 ## Interest Rate
 The interest rate is the amount a lender charges a borrower and is a percentage of the principal—the amount loaned. [Learn More](https://www.investopedia.com/terms/i/interestrate.asp)
 
@@ -68,6 +71,9 @@ The purchase price of the property.
 
 ## Principal
 A loan’s actual balance, excluding the interest owed for borrowing, is called the principal. In the app, this is shown as the estimated monthly Principal at the beginning of the loan. [Learn More](https://www.fha.com/define/principal) 
+
+## Principal & Interest (P&I)
+The principal is the amount borrowed and required to pay back, and interest is what the lender charges for lending you the money. In the app, this is shown as the monthly mortgage amount if P&I is selected. [Learn More](https://www.consumerfinance.gov/ask-cfpb/on-a-mortgage-whats-the-difference-between-my-principal-and-interest-payment-and-my-total-monthly-payment-en-1941/)
 
 ## Property Management
 Property managers are individuals or companies that are hired to manage a rental property. [Learn More](https://www.biggerpockets.com/glossary/property-manager)
