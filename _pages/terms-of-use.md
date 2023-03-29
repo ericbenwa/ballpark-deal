@@ -4,8 +4,6 @@ title: Terms of Use
 include_in_header: false
 ---
 
-**Last updated**  
-March 29 2023
 
 # Terms and Conditions
 
