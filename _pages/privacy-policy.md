@@ -6,7 +6,7 @@ include_in_header: false
 
 # Privacy Policy
 
-Last updated: March 29, 2023
+Last updated: June 15, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -31,9 +31,9 @@ For the purposes of this Privacy Policy:
 - __Business__, for the purpose of CCPA/CPRA, refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information, or on behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers' personal information, that does business in the State of California.
 
 
-- __CCPA__ and/or __CPRA__ refers to California Consumer Privacy Act (the "CCPA") as amended by the California Privacy Rights Act of 2020 (the "CPRA").
+- __CCPA__ and/or __CPRA__ refers to the California Consumer Privacy Act (the "CCPA") as amended by the California Privacy Rights Act of 2020 (the "CPRA").
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to BallparkDeal.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to BallparkDeal, LLC, 156 Farrington Street.
 
 	For the purpose of the GDPR, the Company is the Data Controller.
 
@@ -59,6 +59,7 @@ For the purposes of this Privacy Policy:
 
 
 	For the purposes of the CCPA/CPRA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
+
 
 
 - __Service__ refers to the Application.
@@ -217,12 +218,26 @@ We may use third-party Service providers to monitor and analyze the use of our S
 
 
 
+- __Firebase__
+
+	Firebase is an analytics service provided by Google Inc.
+
+	You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+	We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
+
+	For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
 
 
 
 
 
 
+
+
+- __Sentry__
+
+	Their Privacy Policy can be viewed at [https://sentry.io/privacy/](https://sentry.io/privacy/)
 
 
 
@@ -294,7 +309,7 @@ You have the right to complain to a Data Protection Authority about Our collecti
 
 
 
-# CCPA/CPRA Privacy Notice
+# CCPA/CPRA Privacy Notice (California Privacy Rights)
 
 This privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.
 
@@ -402,7 +417,7 @@ We may use or disclose personal information We collect for "business purposes" o
 
 Please note that the examples provided above are illustrative and not intended to be exhaustive. For more details on how we use this information, please refer to the "Use of Your Personal Data" section.
 
-If We decide to collect additional categories of personal information or use the personal information We collected for materially different, unrelated, or incompatible purposes We will update this Privacy Policy.
+If We decide to collect additional categories of personal information or use the personal information We collected for materially different, unrelated, or incompatible purposes, We will update this Privacy Policy.
 
 ## Disclosure of Personal Information
 
@@ -471,7 +486,7 @@ The CCPA/CPRA provides California residents with specific rights regarding their
 		- The categories of personal information categories sold
 		- The categories of personal information categories disclosed
 - __The right to say no to the sale or sharing of Personal Data (opt-out).__ You have the right to direct Us to not sell Your personal information. To submit an opt-out request, please see the "Do Not Sell My Personal Information" section or contact Us. 
-- __The right to correct Personal Data.__ You have the right to correct or rectify any any inaccurate personal information about You that We collected. Once We receive and confirm Your request, We will use commercially reasonable efforts to correct (and direct our Service Providers to correct) Your personal information, unless an exception applies.
+- __The right to correct Personal Data.__ You have the right to correct or rectify any inaccurate personal information about You that We collected. Once We receive and confirm Your request, We will use commercially reasonable efforts to correct (and direct our Service Providers to correct) Your personal information, unless an exception applies.
 - __The right to limit use and disclosure of sensitive Personal Data.__ You have the right to request to limit the use or disclosure of certain sensitive personal information We collected about You, unless an exception applies. To submit, please see the "Limit the Use or Disclosure of My Sensitive Personal Information" section or contact Us.
 - __The right to delete Personal Data.__ You have the right to request the deletion of Your Personal Data under certain circumstances, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. We may deny Your deletion request if retaining the information is necessary for Us or Our Service Providers to:
 	- Complete the transaction for which We collected the personal information, provide a good or service that You requested, take actions reasonably anticipated within the context of our ongoing business relationship with You, or otherwise perform our contract with You.
@@ -535,7 +550,7 @@ Please note that any opt out is specific to the browser You use. You may need to
 
 ### Website
 
-If applicable, click "Privacy Preferences", "Update Privacy Preferences" or "Do Not Sell My Personal Information" buttons listed on the Service to review your privacy preferences and opt out of cookies and other technologies that We may use. Please note that You will need to opt out from each browser that You use to access the Service.
+If applicable, click "Privacy Preferences", "Update Privacy Preferences" or "Do Not Sell My Personal Information" buttons listed on the Service to review Your privacy preferences and opt out of cookies and other technologies that We may use. Please note that You will need to opt out from each browser that You use to access the Service.
 
 Additionally, You can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions presented on the Service:
 
@@ -543,7 +558,7 @@ Additionally, You can opt out of receiving ads that are personalized as served b
 - The EDAA's opt-out platform [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/)
 - The DAA's opt-out platform: [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN)
 
-The opt out will place a cookie on Your computer that is unique to the browser You use to opt out. If you change browsers or delete the cookies saved by your browser, You will need to opt out again.
+The opt out will place a cookie on Your computer that is unique to the browser You use to opt out. If you change browsers or delete the cookies saved by Your browser, You will need to opt out again.
 
 ### Mobile Devices
 
@@ -557,7 +572,7 @@ You can also stop the collection of location information from Your mobile device
 
 ## Limit the Use or Disclosure of My Sensitive Personal Information
 
-If You are a California resident, You have the right to limit the use and disclosure of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.
+If You are a California resident, You have the right to limit the use and disclosure of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average consumer who requests such services or goods.
 
 We collect, use and disclose sensitive personal information in ways that are necessary to provide the Service. For more information on how We use Your personal information, please see the "Use of Your Personal Data" section or contact us.
 
@@ -586,6 +601,8 @@ California Business and Professions Code Section 22581 allows California residen
 To request removal of such data, and if You are a California resident, You can contact Us using the contact information provided below, and include the email address associated with Your account.
 
 Be aware that Your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+
+
 
 
 

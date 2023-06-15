@@ -7,7 +7,7 @@ include_in_header: false
 
 # Terms and Conditions
 
-Last updated: March 29, 2023
+Last updated: June 15, 2023
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -26,7 +26,7 @@ For the purposes of these Terms and Conditions:
 - __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
 - __Country__ refers to: Massachusetts,  United States
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to BallparkDeal.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to BallparkDeal, LLC, 156 Farrington Street.
 - __Content__ refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - __Feedback__ means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
@@ -94,7 +94,7 @@ You may not transmit any Content that is unlawful, offensive, upsetting, intende
 - Violating the privacy of any third person.
 - False information and features.
 
-The Company reserves the right, but not the obligation, to, in its sole discretion, determine whether or not any Content is appropriate and complies with this Terms, refuse or remove this Content. The Company further reserves the right to make formatting and edits and change the manner of any Content. The Company can also limit or revoke the use of the Service if You post such objectionable Content.
+The Company reserves the right, but not the obligation, to, in its sole discretion, determine whether or not any Content is appropriate and complies with these Terms, refuse or remove this Content. The Company further reserves the right to make formatting and edits and change the manner of any Content. The Company can also limit or revoke the use of the Service if You post such objectionable Content.
 As the Company cannot control all content posted by users and/or third parties on the Service, you agree to use the Service at your own risk. You understand that by using the Service You may be exposed to content that You may find offensive, indecent, incorrect or objectionable, and You agree that under no circumstances will the Company be liable in any way for any content, including any errors or omissions in any content, or any loss or damage of any kind incurred as a result of your use of any content.
 
 ## Content Backups

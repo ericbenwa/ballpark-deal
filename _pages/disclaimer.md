@@ -7,7 +7,7 @@ include_in_header: false
 
 # Disclaimer
 
-Last updated: March 29, 2023
+Last updated: June 15, 2023
 
 # Interpretation and Definitions
 
@@ -20,7 +20,7 @@ The following definitions shall have the same meaning regardless of whether they
 
 For the purposes of this Disclaimer:
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to BallparkDeal.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to BallparkDeal, LLC, 156 Farrington Street.
 - __Service__ refers to the Application.
 - __You__ means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
@@ -54,7 +54,7 @@ Please note that the Company does not guarantee the accuracy, relevance, timelin
 
 # Errors and Omissions Disclaimer
 
-The information given by the Service is for general guidance on matters of interest only. Even if the Company takes every precaution to insure that the content of the Service is both current and accurate, errors can occur. Plus, given the changing nature of laws, rules and regulations, there may be delays, omissions or inaccuracies in the information contained on the Service.
+The information given by the Service is for general guidance on matters of interest only. Even if the Company takes every precaution to ensure that the content of the Service is both current and accurate, errors can occur. Plus, given the changing nature of laws, rules and regulations, there may be delays, omissions or inaccuracies in the information contained on the Service.
 
 The Company is not responsible for any errors or omissions, or for the results obtained from the use of this information.
 
