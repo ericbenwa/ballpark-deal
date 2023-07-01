@@ -6,7 +6,7 @@ include_in_header: false
 
 # Privacy Policy
 
-Last updated: June 15, 2023
+Last updated: July 01, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -139,7 +139,7 @@ The Company may use Personal Data for the following purposes:
 
 We may share Your personal information in the following situations:
 
-- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
+- __With Service Providers:__ We may share Your personal information with Service Providers to monitor and analyze the use of our Service, for payment processing,  to contact You.
 - __For business transfers:__ We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
 - __With Affiliates:__ We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
 - __With business partners:__ We may share Your information with Our business partners to offer You certain products, services or promotions.
@@ -262,6 +262,43 @@ We may use Email Marketing Service Providers to manage and send emails to You.
 
 
 
+## Payments
+
+We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+
+- __Apple Store In-App Payments__
+
+	Their Privacy Policy can be viewed at [https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/)
+
+
+- __Google Play In-App Payments__
+
+	Their Privacy Policy can be viewed at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -339,7 +376,7 @@ Please note that the categories and examples provided in the list below are thos
 	 Examples: Records and history of products or services purchased or considered.
 	 
 	 
-	 Collected: No.
+	 Collected: Yes.
 	 
 - __Category E: Biometric information.__
 
@@ -397,10 +434,10 @@ Under CCPA/CPRA, personal information does not include:
 
 We obtain the categories of personal information listed above from the following categories of sources:
 
-- __Directly from You__. For example, from the forms You complete on our Service, preferences You express or provide through our Service.
+- __Directly from You__. For example, from the forms You complete on our Service, preferences You express or provide through our Service, or from Your purchases on our Service.
 - __Indirectly from You__. For example, from observing Your activity on our Service.
 - __Automatically from You__. For example, through cookies We or our Service Providers set on Your Device as You navigate through our Service.
-- __From Service Providers__. For example, third-party vendors to monitor and analyze the use of our Service,  or other third-party vendors that We use to provide the Service to You.
+- __From Service Providers__. For example, third-party vendors to monitor and analyze the use of our Service, third-party vendors for payment processing,  or other third-party vendors that We use to provide the Service to You.
 
 ## Use of Personal Information
 
@@ -408,7 +445,7 @@ We may use or disclose personal information We collect for "business purposes" o
 
 - To operate our Service and provide You with Our Service.
 - To provide You with support and to respond to Your inquiries, including to investigate and address Your concerns and monitor and improve our Service.
-- To fulfill or meet the reason You provided the information. For example, if You share Your contact information to ask a question about our Service, We will use that personal information to respond to Your inquiry. 
+- To fulfill or meet the reason You provided the information. For example, if You share Your contact information to ask a question about our Service, We will use that personal information to respond to Your inquiry. If You provide Your personal information to purchase a product or service, We will use that information to process Your payment and facilitate delivery.
 - To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
 - As described to You when collecting Your personal information or as otherwise set forth in the CCPA/CPRA.
 - For internal administrative and auditing purposes.
@@ -425,7 +462,7 @@ We may use or disclose and may have used or disclosed in the last twelve (12) mo
 
 - Category A: Identifiers
 - Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
-
+- Category D: Commercial information
 - Category F: Internet or other similar network activity
 - Category G: Geolocation data
 - Category L: Sensitive personal information
@@ -439,7 +476,7 @@ When We disclose personal information for a business purpose or a commercial pur
 We may share, and have shared in the last twelve (12) months, Your personal information identified in the above categories with the following categories of third parties:
 
 - Service Providers
-
+- Payment processors
 - Our affiliates
 - Our business partners
 - Third party vendors to whom You or Your agents authorize Us to disclose Your personal information in connection with products or services We provide to You
@@ -454,7 +491,7 @@ We may sell and may have sold in the last twelve (12) months the following categ
 
 - Category A: Identifiers
 - Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
-
+- Category D: Commercial information
 - Category F: Internet or other similar network activity
 - Category G: Geolocation data
 - Category L: Sensitive personal information

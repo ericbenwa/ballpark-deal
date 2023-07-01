@@ -7,7 +7,7 @@ include_in_header: false
 
 # Terms and Conditions
 
-Last updated: June 15, 2023
+Last updated: July 01, 2023
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -30,15 +30,15 @@ For the purposes of these Terms and Conditions:
 - __Content__ refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - __Feedback__ means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
+- __Free Trial__ refers to a limited period of time that may be free when purchasing a Subscription.
 
-
-
+- __In-app Purchase__ refers to the purchase of a product, item, service or Subscription made through the Application and subject to these Terms and Conditions and/or the Application Store's own terms and conditions.
 
 
 
 - __Service__ refers to the Application.
 
-
+- __Subscriptions__ refer to the services or access to the Service offered on a subscription basis by the Company to You.
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. 
 - __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
@@ -61,7 +61,72 @@ Your access to and use of the Service is also conditioned on Your acceptance of 
 
 
 
+# Subscriptions
 
+## Subscription period
+
+The Service or some parts of the Service are available only with a paid Subscription. You will be billed in advance on a recurring and periodic basis (such as daily, weekly, monthly or annually), depending on the type of Subscription plan you select when purchasing the Subscription.
+
+At the end of each period, Your Subscription will automatically renew under the exact same conditions unless You cancel it or the Company cancels it.
+
+## Subscription cancellations
+
+You may cancel Your Subscription renewal either through Your Account settings page or by contacting the Company.
+You will not receive a refund for the fees You already paid for Your current Subscription period and You will be able to access the Service until the end of Your current Subscription period.
+
+If the Subscription has been made through an In-app Purchase, You can cancel the renewal of Your Subscription with the Application Store.
+
+## Billing
+
+You shall provide the Company with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information.
+
+Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+
+If the Subscription has been made through an In-app Purchase, all billing is handled by the Application Store and is governed by the Application Store's own terms and conditions.
+
+## Fee Changes
+
+The Company, in its sole discretion and at any time, may modify the Subscription fees. Any Subscription fee change will become effective at the end of the then-current Subscription period.
+
+The Company will provide You with reasonable prior notice of any change in Subscription fees to give You an opportunity to terminate Your Subscription before such change becomes effective.
+
+Your continued use of the Service after the Subscription fee change comes into effect constitutes Your agreement to pay the modified Subscription fee amount.
+
+## Refunds
+
+Except when required by law, paid Subscription fees are non-refundable.
+
+Certain refund requests for Subscriptions may be considered by the Company on a case-by-case basis and granted at the sole discretion of the Company.
+
+If the Subscription has been made through an In-app purchase, the Application Store's refund policy will apply. If You wish to request a refund, You may do so by contacting the Application Store directly.
+
+
+## Free Trial
+
+The Company may, at its sole discretion, offer a Subscription with a Free Trial for a limited period of time.
+
+You may be required to enter Your billing information in order to sign up for the Free Trial.
+
+If You do enter Your billing information when signing up for a Free Trial, You will not be charged by the Company until the Free Trial has expired. On the last day of the Free Trial period, unless You canceled Your Subscription, You will be automatically charged the applicable Subscription fees for the type of Subscription You have selected.
+
+At any time and without notice, the Company reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
+
+
+
+
+# In-app Purchases
+
+The Application may include In-app Purchases that allow you to buy products, services or Subscriptions.
+
+More information about how you may be able to manage In-app Purchases using your Device may be set out in the Application Store's own terms and conditions or in your Device's Help settings.
+
+In-app Purchases can only be consumed within the Application. If you make a In-app Purchase, that In-app Purchase cannot be cancelled after you have initiated its download. In-app Purchases cannot be redeemed for cash or other consideration or otherwise transferred.
+
+If any In-app Purchase is not successfully downloaded or does not work once it has been successfully downloaded, we will, after becoming aware of the fault or being notified to the fault by You, investigate the reason for the fault. We will act reasonably in deciding whether to provide You with a replacement In-app Purchase or issue You with a patch to repair the fault. In no event will We charge You to replace or repair the In-app Purchase. In the unlikely event that we are unable to replace or repair the relevant In-app Purchase or are unable to do so within a reasonable period of time and without significant inconvenience to You, We will authorize the Application Store to refund You an amount up to the cost of the relevant In-app Purchase. Alternatively, if You wish to request a refund, You may do so by contacting the Application Store directly.
+
+You acknowledge and agree that all billing and transaction processes are handled by the Application Store from where you downloaded the Application and are governed by that Application Store's own terms and conditions.
+
+If you have any payment related issues with In-app Purchases, then you need to contact the Application Store directly.
 
 
 
@@ -196,6 +261,11 @@ If You have any concern or dispute about the Service, You agree to first try to 
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
+
+
+
+# United States Federal Government End Use Provisions
+If You are a U.S. federal government end user, our Service is a "Commercial Item" as that term is defined at 48 C.F.R. §2.101.
 
 
 
