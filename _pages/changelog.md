@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.0**
+- A Pro version is now available for seasoned investors and agents.
+- Saving Properties
+- Investment Criteria (Profit Price)
+- Customize Default Inputs
+
 # **Version 4.2**
 - Interest Only (IO) option for financing. Default option is Principal & Interest (P&I).
 - Yearly rental income
