@@ -10,11 +10,13 @@ include_in_header: false
 Capital expenditure, or “CapEx,” refers to money used by businesses to buy, upgrade, and maintain long-term physical assets. [Learn More](https://www.biggerpockets.com/glossary/capital-expenditure)
 
 Calculation: A percentage of Rental Income
+Display: Decimals are trimmed.
 
 ## Cap Rate
 The capitalization rate is the rate of return an investor can expect from an investment in real estate, assuming they pay all cash. [Learn More](https://www.biggerpockets.com/glossary/capitalization-rate-aka-cap-rate)
 
 Calculation: Net Operating Income (NOI) / Purchase Price
+Display: One decimal and is rounded by the second decimal.
 
 ## Cashflow
 Cash flow is the amount of profit you bring in each month after collecting all income, paying all operating expenses, and setting aside cash reserves for future repairs. [Learn More](https://learn.roofstock.com/blog/real-estate-cash-flow)
@@ -25,6 +27,7 @@ Calculation: Rental Income - Mortgage - Taxes - Insurance - Utilities - Maintena
 A cash-on-cash return is a rate of return often used in real estate transactions that calculates the cash income earned on the cash invested in a property. [Learn More](https://www.investopedia.com/terms/c/cashoncashreturn.asp)
 
 Calculation: Annual Cashflow / Cash Invested (Down Payment + Closing Costs + Rehab)
+Display: One decimal and is rounded by the second decimal.
 
 ## Closing Costs
 Closing costs are payments that occur when finalizing a real estate transaction, such as the sale or purchase of a house. [Learn More](https://www.biggerpockets.com/glossary/closing-costs)
@@ -38,6 +41,7 @@ Calculation: Mortgage * 12 months
 The debt-service coverage ratio (DSCR) is a measurement of a property's available cash flow to pay current debt obligations. The DSCR shows investors whether a property has enough income to pay its debts. [Learn More](https://www.investopedia.com/terms/d/dscr.asp)
 
 Calculation: Net Operating Income (NOI) / Annual Debt Service
+Display: Two decimals.
 
 ## Down Payment
 A down payment is a sum of money that a buyer pays in the early stages of purchasing a property. The down payment represents a portion of the total purchase price, and the buyer will often take out a loan to finance the remainder. [Learn More](https://www.investopedia.com/terms/d/down_payment.asp)
@@ -60,6 +64,8 @@ Miscellaneous can be used for any other expenses not covered in the other sectio
 ## Mortgage
 The term “mortgage” refers to a loan used to purchase or maintain a home, land, or other types of real estate. The borrower agrees to pay the lender over time, typically in a series of regular payments that are divided into principal and interest. [Learn More](https://www.investopedia.com/terms/m/mortgage.asp)
 
+Display: Rounded to nearest dollar.
+
 ## Net Operating Income (NOI)
 Net operating income (NOI) is a calculation used to analyze the profitability of income-generating real estate investments. NOI equals all revenue from the property, minus all reasonably necessary operating expenses. [Learn More](https://www.investopedia.com/terms/n/noi.asp)
 
@@ -75,10 +81,14 @@ A loan’s actual balance, excluding the interest owed for borrowing, is called 
 ## Principal & Interest (P&I)
 The principal is the amount borrowed and required to pay back, and interest is what the lender charges for lending you the money. In the app, this is shown as the monthly mortgage amount if P&I is selected. [Learn More](https://www.consumerfinance.gov/ask-cfpb/on-a-mortgage-whats-the-difference-between-my-principal-and-interest-payment-and-my-total-monthly-payment-en-1941/)
 
+## Profit Price
+A BallparkDeal term used to describe the maximum allowable offer (MAO) for a property based on a desired return on investment.
+
 ## Property Management
 Property managers are individuals or companies that are hired to manage a rental property. [Learn More](https://www.biggerpockets.com/glossary/property-manager)
 
 Calculation: A percentage of Rental Income
+Display: Decimals are trimmed.
 
 ## Rehab
 Rehab is the cost to make the property rent-ready.
@@ -93,6 +103,7 @@ Property tax is a tax paid on property owned by an individual or other legal ent
 Return on investment (ROI) is a performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of a number of different investments. ROI tries to directly measure the amount of return on a particular investment, relative to the investment’s cost. [Learn More](https://www.investopedia.com/articles/investing/062215/how-calculate-roi-rental-property.asp)
 
 Calculation: (Annual Cashflow + Annual Principal Payments) / Cash Invested (Down Payment + Closing Costs + Rehab)
+Display: One decimal and is rounded by the second decimal.
 
 ## Utilities
 Utilities are the essential services needed for the property to be functional that are the property owner's expenses. They can include electricity, natural gas, oil, water, sewage, trash, and sometimes internet and cable.
@@ -101,3 +112,4 @@ Utilities are the essential services needed for the property to be functional th
 The vacancy rate is the percentage of all available units in a rental property that are vacant or unoccupied at a particular time. [Learn More](https://www.investopedia.com/terms/v/vacancy-rate.asp#:~:text=The%20vacancy%20rate%20is%20the,rental%20property%20that%20are%20occupied.)
 
 Calculation: A percentage of Rental Income
+Display: Decimals are trimmed.
