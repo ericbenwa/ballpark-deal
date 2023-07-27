@@ -46,6 +46,8 @@ Display: Two decimals.
 ## Down Payment
 A down payment is a sum of money that a buyer pays in the early stages of purchasing a property. The down payment represents a portion of the total purchase price, and the buyer will often take out a loan to finance the remainder. [Learn More](https://www.investopedia.com/terms/d/down_payment.asp)
 
+Display: Rounded to nearest dollar.
+
 ## Insurance
 Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company. [Learn More](https://www.investopedia.com/terms/i/insurance.asp)
 
