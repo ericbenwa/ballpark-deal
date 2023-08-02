@@ -9,24 +9,25 @@ include_in_header: false
 ## Capital Expenditure
 Capital expenditure, or “CapEx,” refers to money used by businesses to buy, upgrade, and maintain long-term physical assets. [Learn More](https://www.biggerpockets.com/glossary/capital-expenditure)
 
-Calculation: A percentage of Rental Income
+Calculation: A percentage of Rental Income  
 Display: Decimals are trimmed.
 
 ## Cap Rate
 The capitalization rate is the rate of return an investor can expect from an investment in real estate, assuming they pay all cash. [Learn More](https://www.biggerpockets.com/glossary/capitalization-rate-aka-cap-rate)
 
-Calculation: Net Operating Income (NOI) / Purchase Price
+Calculation: Net Operating Income (NOI) / Purchase Price  
 Display: One decimal and is rounded by the second decimal.
 
 ## Cashflow
 Cash flow is the amount of profit you bring in each month after collecting all income, paying all operating expenses, and setting aside cash reserves for future repairs. [Learn More](https://learn.roofstock.com/blog/real-estate-cash-flow)
 
-Calculation: Rental Income - Mortgage - Taxes - Insurance - Utilities - Maintenance - Miscellaneous - Capital Expenditure - Property Management - Vacancy
+Calculation: Rental Income - Mortgage - Taxes - Insurance - Utilities - Maintenance - Miscellaneous - Capital Expenditure - Property Management - Vacancy  
+Display: Rounded to nearest dollar.
 
 ## Cash On Cash ROI
 A cash-on-cash return is a rate of return often used in real estate transactions that calculates the cash income earned on the cash invested in a property. [Learn More](https://www.investopedia.com/terms/c/cashoncashreturn.asp)
 
-Calculation: Annual Cashflow / Cash Invested (Down Payment + Closing Costs + Rehab)
+Calculation: Annual Cashflow / Cash Invested (Down Payment + Closing Costs + Rehab)  
 Display: One decimal and is rounded by the second decimal.
 
 ## Closing Costs
@@ -35,13 +36,14 @@ Closing costs are payments that occur when finalizing a real estate transaction,
 ## Debt Service
 Debt service is the cash that is required to cover the repayment of interest and principal on a debt for a particular period. [Learn More](https://www.investopedia.com/terms/d/debtservice.asp)
 
-Calculation: Mortgage * 12 months
+Calculation: Mortgage * 12 months  
+Display: Rounded to nearest dollar.
 
 ## Debt Service Coverage Ratio (DSCR)
 The debt-service coverage ratio (DSCR) is a measurement of a property's available cash flow to pay current debt obligations. The DSCR shows investors whether a property has enough income to pay its debts. [Learn More](https://www.investopedia.com/terms/d/dscr.asp)
 
-Calculation: Net Operating Income (NOI) / Annual Debt Service
-Display: Two decimals.
+Calculation: Net Operating Income (NOI) / Annual Debt Service  
+Display: Two decimals. Not rounded.
 
 ## Down Payment
 A down payment is a sum of money that a buyer pays in the early stages of purchasing a property. The down payment represents a portion of the total purchase price, and the buyer will often take out a loan to finance the remainder. [Learn More](https://www.investopedia.com/terms/d/down_payment.asp)
@@ -89,7 +91,7 @@ A BallparkDeal term used to describe the maximum allowable offer (MAO) for a pro
 ## Property Management
 Property managers are individuals or companies that are hired to manage a rental property. [Learn More](https://www.biggerpockets.com/glossary/property-manager)
 
-Calculation: A percentage of Rental Income
+Calculation: A percentage of Rental Income  
 Display: Decimals are trimmed.
 
 ## Rehab
@@ -104,7 +106,7 @@ Property tax is a tax paid on property owned by an individual or other legal ent
 ## Total ROI
 Return on investment (ROI) is a performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of a number of different investments. ROI tries to directly measure the amount of return on a particular investment, relative to the investment’s cost. [Learn More](https://www.investopedia.com/articles/investing/062215/how-calculate-roi-rental-property.asp)
 
-Calculation: (Annual Cashflow + Annual Principal Payments) / Cash Invested (Down Payment + Closing Costs + Rehab)
+Calculation: (Annual Cashflow + Annual Principal Payments) / Cash Invested (Down Payment + Closing Costs + Rehab)  
 Display: One decimal and is rounded by the second decimal.
 
 ## Utilities
@@ -113,5 +115,5 @@ Utilities are the essential services needed for the property to be functional th
 ## Vacancy
 The vacancy rate is the percentage of all available units in a rental property that are vacant or unoccupied at a particular time. [Learn More](https://www.investopedia.com/terms/v/vacancy-rate.asp#:~:text=The%20vacancy%20rate%20is%20the,rental%20property%20that%20are%20occupied.)
 
-Calculation: A percentage of Rental Income
+Calculation: A percentage of Rental Income  
 Display: Decimals are trimmed.
