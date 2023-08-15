@@ -7,6 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+<!-- # **Version 5.0.2**
+- Bug fixes -->
+# **Version 5.0.1**
+- Bug fixes
+
 # **Version 5.0.0**
 - A Pro version is now available for seasoned investors and agents.
 - Saving Properties
