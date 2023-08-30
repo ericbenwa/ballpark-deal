@@ -7,8 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-<!-- # **Version 5.0.2**
-- Bug fixes -->
+# **Version 5.0.3**
+- Bug fixes
+
+# **Version 5.0.2**
+- Bug fixes
+
 # **Version 5.0.1**
 - Bug fixes
 
