@@ -7,16 +7,19 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 5.0.3**
+# **Version 5.0.4 (iOS only)**
 - Bug fixes
 
-# **Version 5.0.2**
+# **Version 5.0.3 (iOS only)**
 - Bug fixes
 
-# **Version 5.0.1**
+# **Version 5.0.2 (iOS only)**
 - Bug fixes
 
-# **Version 5.0.0**
+# **Version 5.0.1 (iOS only)**
+- Bug fixes
+
+# **Version 5.0.0 (iOS only)**
 - A Pro version is now available for seasoned investors and agents.
 - Saving Properties
 - Investment Criteria (Profit Price)
