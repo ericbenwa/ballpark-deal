@@ -7,8 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 5.0.5**
+# **Version 5.0.6**
 - Android: A Pro version is now available for seasoned investors and agents.
+- Bug fixes
+
+# **Version 5.0.5 (iOS only)**
 - Bug fixes
 
 # **Version 5.0.4 (iOS only)**
