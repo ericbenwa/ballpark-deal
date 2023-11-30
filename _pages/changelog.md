@@ -8,6 +8,9 @@ include_in_header: true
 
 ### `Latest`
 # **Version 5.0.6**
+- Bug fixes
+
+# **Version 5.0.6**
 - Android: A Pro version is now available for seasoned investors and agents.
 - Bug fixes
 
