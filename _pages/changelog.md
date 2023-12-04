@@ -7,7 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 5.0.7**
+# **Version 5.0.8**
+- Bug fixes
+
+# **Version 5.0.7 (iOS only)**
 - Bug fixes
 
 # **Version 5.0.6**
