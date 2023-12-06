@@ -9,9 +9,11 @@ include_in_header: true
 ### `Latest`
 # **Version 5.0.8**
 - Bug fixes
+- Changed the Launch Screen > New Property fallback to open the Last Modified Property when the property limit has been reached on the free plan. The prior fallback was to open the Property List.
 
 # **Version 5.0.7 (iOS only)**
 - Bug fixes
+- Changed messaging on property limit reached when trying to add a new property
 
 # **Version 5.0.6**
 - Android: A Pro version is now available for seasoned investors and agents.
