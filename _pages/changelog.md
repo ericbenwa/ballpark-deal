@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.9**
+- Fixed an issue where Pro subscribers were unable to turn Profit Price ON (and would see a popup saying they "reached the limit of Profit Price uses on the free plan") if they used all free Profit Price uses prior to subscribing to Pro.
+
 # **Version 5.0.8**
 - Bug fixes
 - Changed the Launch Screen > New Property fallback to open the Last Modified Property when the property limit has been reached on the free plan. The prior fallback was to open the Property List.
