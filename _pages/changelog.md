@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.10**
+- Bug fixes
+
 # **Version 5.0.9**
 - Fixed an issue where Pro subscribers were unable to turn Profit Price ON (and would see a popup saying they "reached the limit of Profit Price uses on the free plan") if they used all free Profit Price uses prior to subscribing to Pro.
 
