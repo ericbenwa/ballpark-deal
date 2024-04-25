@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.11**
+- Added 45 and 50 year amortization options
+
 # **Version 5.0.10**
 - Bug fixes
 
