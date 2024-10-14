@@ -8,7 +8,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 5.0.11**
-- Added 45 and 50 year amortization options
+- Fixed an issue where a property wouldn't save changes after a Down Payment of 0%.
 
 # **Version 5.0.10**
 - Bug fixes
