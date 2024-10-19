@@ -7,7 +7,11 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
-# **Version 5.0.11**
+# **Version 5.0.12**
+- Fixed an issue where Cash On Cash would display NaN if monthly cashflow was $0. Cash On Cash will display 0%.
+- Miscellaneous updates
+
+# **Version 5.0.11 (iOS only)**
 - Fixed an issue where a property wouldn't save changes after a Down Payment of 0%.
 
 # **Version 5.0.10**
@@ -69,7 +73,7 @@ include_in_header: true
 
 # **Version 3.93**
 - Added mortgage length options 35 years and 40 years
-- Miscellaneous tweaks
+- Miscellaneous updates
 
 # **Version 3.9**
 - Behind-the-scene updates
